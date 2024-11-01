@@ -1,0 +1,1615 @@
+,labels,words,meaning
+0,ORG,Senate,"Companies, agencies, institutions, etc."
+1,ORG,the U.S. Government Publishing Office,"Companies, agencies, institutions, etc."
+2,ORG,"THE
+
+                              COMMITTEE ON
+                      ","Companies, agencies, institutions, etc."
+3,CARDINAL,ONE,Numerals that do not fall under another type
+4,DATE,"MARCH 15, 2023",Absolute or relative dates or periods
+5,ORG,the Committee on Environment and Public Works,"Companies, agencies, institutions, etc."
+6,ORG,the World Wide Web,"Companies, agencies, institutions, etc."
+7,PERSON,THOMAS R. CARPER,"People, including fictional"
+8,GPE,Delaware,"Countries, cities, states"
+9,PERSON,SHELLEY MOORE CAPITO,"People, including fictional"
+10,GPE,West Virginia,"Countries, cities, states"
+11,PERSON,BENJAMIN L. CARDIN,"People, including fictional"
+12,GPE,Maryland,"Countries, cities, states"
+13,PERSON,KEVIN CRAMER,"People, including fictional"
+14,GPE,North Dakota,"Countries, cities, states"
+15,PERSON,BERNARD SANDERS,"People, including fictional"
+16,GPE,Vermont,"Countries, cities, states"
+17,PERSON,CYNTHIA M. LUMMIS,"People, including fictional"
+18,GPE,Wyoming,"Countries, cities, states"
+19,PERSON,SHELDON WHITEHOUSE,"People, including fictional"
+20,GPE,Rhode Island,"Countries, cities, states"
+21,PERSON,MARKWAYNE MULLIN,"People, including fictional"
+22,GPE,Oklahoma,"Countries, cities, states"
+23,PERSON,JEFF MERKLEY,"People, including fictional"
+24,GPE,Oregon,"Countries, cities, states"
+25,PERSON,PETE RICKETTS,"People, including fictional"
+26,GPE,Nebraska,"Countries, cities, states"
+27,PERSON,EDWARD J. MARKEY,"People, including fictional"
+28,GPE,Massachusetts,"Countries, cities, states"
+29,PERSON,JOHN BOOZMAN,"People, including fictional"
+30,GPE,Arkansas,"Countries, cities, states"
+31,PERSON,DEBBIE STABENOW,"People, including fictional"
+32,GPE,Michigan,"Countries, cities, states"
+33,PERSON,ROGER WICKER,"People, including fictional"
+34,GPE,Mississippi,"Countries, cities, states"
+35,PERSON,MARK KELLY,"People, including fictional"
+36,GPE,Arizona,"Countries, cities, states"
+37,PERSON,DAN SULLIVAN,"People, including fictional"
+38,GPE,Alaska,"Countries, cities, states"
+39,PERSON,ALEX PADILLA,"People, including fictional"
+40,GPE,California,"Countries, cities, states"
+41,PERSON,LINDSEY O. GRAHAM,"People, including fictional"
+42,GPE,South Carolina,"Countries, cities, states"
+43,PERSON,JOHN FETTERMAN,"People, including fictional"
+44,GPE,Pennsylvania,"Countries, cities, states"
+45,PERSON,Courtney Taylor,"People, including fictional"
+46,NORP,Democratic,Nationalities or religious or political groups
+47,PERSON,Adam Tomlinson,"People, including fictional"
+48,NORP,Republican,Nationalities or religious or political groups
+49,ORG,C O N T E N T S,"Companies, agencies, institutions, etc."
+50,DATE,"MARCH 15, 2023",Absolute or relative dates or periods
+51,PERSON,Carper,"People, including fictional"
+52,PERSON,Thomas R.,"People, including fictional"
+53,GPE,U.S.,"Countries, cities, states"
+54,GPE,Delaware,"Countries, cities, states"
+55,CARDINAL,1,Numerals that do not fall under another type
+56,PERSON,Capito,"People, including fictional"
+57,PERSON,Shelley Moore,"People, including fictional"
+58,GPE,U.S.,"Countries, cities, states"
+59,GPE,"West 
+  ","Countries, cities, states"
+60,CARDINAL,3,Numerals that do not fall under another type
+61,PERSON,Fox,"People, including fictional"
+62,PERSON,Radhika,"People, including fictional"
+63,ORG,Office of Water,"Companies, agencies, institutions, etc."
+64,ORG,Environmental Protection Agency,"Companies, agencies, institutions, etc."
+65,PERSON,Carper,"People, including fictional"
+66,PERSON,Fetterman,"People, including fictional"
+67,CARDINAL,23,Numerals that do not fall under another type
+68,PERSON,Capito,"People, including fictional"
+69,PERSON,Cramer,"People, including fictional"
+70,CARDINAL,28,Numerals that do not fall under another type
+71,PERSON,Lummis,"People, including fictional"
+72,CARDINAL,30,Numerals that do not fall under another type
+73,PERSON,Mullin,"People, including fictional"
+74,CARDINAL,30,Numerals that do not fall under another type
+75,PERSON,Sullivan,"People, including fictional"
+76,PERSON,Hayman,"People, including fictional"
+77,PERSON,Randy E.,"People, including fictional"
+78,ORG,"Philadelphia Water 
+  ","Companies, agencies, institutions, etc."
+79,PERSON,Carper,"People, including fictional"
+80,PERSON,Sigmund,"People, including fictional"
+81,PERSON,Thomas W.,"People, including fictional"
+82,ORG,"National Association of Clean 
+  Water Agencies","Companies, agencies, institutions, etc."
+83,ORG,NEW Water,"Companies, agencies, institutions, etc."
+84,PERSON,Carper,"People, including fictional"
+85,PERSON,Emery,"People, including fictional"
+86,PERSON,Katheryn D.,"People, including fictional"
+87,ORG,"Division of Water and Waste 
+  ","Companies, agencies, institutions, etc."
+88,GPE,West Virginia,"Countries, cities, states"
+89,ORG,"Department of Environmental 
+  ","Companies, agencies, institutions, etc."
+90,PERSON,Carper,"People, including fictional"
+91,PERSON,Charles Schumer,"People, including fictional"
+92,ORG,"the American 
+  Sustainable Business Network","Companies, agencies, institutions, etc."
+93,DATE,"March 6, 2023",Absolute or relative dates or periods
+94,CARDINAL,45,Numerals that do not fall under another type
+95,PERSON,Carper,"People, including fictional"
+96,PERSON,Capito,"People, including fictional"
+97,ORG,"the California 
+  Association of Sanitation Agencies","Companies, agencies, institutions, etc."
+98,DATE,"March 15, 2023",Absolute or relative dates or periods
+99,PERSON,Carper,"People, including fictional"
+100,PERSON,Capito,"People, including fictional"
+101,ORG,American Rivers,"Companies, agencies, institutions, etc."
+102,DATE,"March 
+  14, 2023",Absolute or relative dates or periods
+103,ORG,the Council of Infrastructure Financing Authorities,"Companies, agencies, institutions, etc."
+104,DATE,"March 15, 2023",Absolute or relative dates or periods
+105,DATE,"WEDNESDAY, MARCH 15, 2023",Absolute or relative dates or periods
+106,ORG,U.S. Senate,"Companies, agencies, institutions, etc."
+107,ORG,Committee on Environment and Public Works,"Companies, agencies, institutions, etc."
+108,GPE,Washington,"Countries, cities, states"
+109,GPE,DC,"Countries, cities, states"
+110,TIME,10:05 a.m.,Times smaller than a day
+111,CARDINAL,406,Numerals that do not fall under another type
+112,FAC,Dirksen Senate Office Building,"Buildings, airports, highways, bridges, etc."
+113,PERSON,Thomas R. Carper,"People, including fictional"
+114,ORG,Committee,"Companies, agencies, institutions, etc."
+115,PERSON,Carper,"People, including fictional"
+116,PERSON,Capito,"People, including fictional"
+117,PERSON,Cardin,"People, including fictional"
+118,PERSON,Markey,"People, including fictional"
+119,PERSON,Kelly,"People, including fictional"
+120,PERSON,Cramer,"People, including fictional"
+121,PERSON,Lummis,"People, including fictional"
+122,PERSON,Sullivan,"People, including fictional"
+123,PERSON,Ricketts,"People, including fictional"
+124,PERSON,THOMAS R. CARPER,"People, including fictional"
+125,GPE,U.S.,"Countries, cities, states"
+126,GPE,THE STATE OF DELAWARE,"Countries, cities, states"
+127,PERSON,Carper,"People, including fictional"
+128,TIME,Good morning,Times smaller than a day
+129,DATE,today,Absolute or relative dates or periods
+130,LAW,"the Bipartisan 
+Infrastructure Law",Named documents made into laws.
+131,CARDINAL,millions,Numerals that do not fall under another type
+132,DATE,today,Absolute or relative dates or periods
+133,PERSON,Radhika Fox,"People, including fictional"
+134,ORG,EPA,"Companies, agencies, institutions, etc."
+135,ORG,Office of Water,"Companies, agencies, institutions, etc."
+136,PERSON,Capito,"People, including fictional"
+137,DATE,a long time,Absolute or relative dates or periods
+138,DATE,this day,Absolute or relative dates or periods
+139,DATE,Yesterday,Absolute or relative dates or periods
+140,PERSON,Biden,"People, including fictional"
+141,DATE,some 20 years,Absolute or relative dates or periods
+142,GPE,West Virginia,"Countries, cities, states"
+143,GPE,Delaware,"Countries, cities, states"
+144,CARDINAL,48,Numerals that do not fall under another type
+145,PERSON,Regan,"People, including fictional"
+146,PERSON,Fox,"People, including fictional"
+147,ORG,EPA,"Companies, agencies, institutions, etc."
+148,DATE,2024,Absolute or relative dates or periods
+149,DATE,last week,Absolute or relative dates or periods
+150,MONEY,more than $12 billion,"Monetary values, including unit"
+151,ORG,EPA,"Companies, agencies, institutions, etc."
+152,MONEY,$1.9 billion,"Monetary values, including unit"
+153,PERCENT,"19 
+","Percentage, including ""%"""
+154,DATE,2023,Absolute or relative dates or periods
+155,MONEY,"More than $4 
+","Monetary values, including unit"
+156,MONEY,an additional $219 million,"Monetary values, including unit"
+157,ORG,Committee,"Companies, agencies, institutions, etc."
+158,LAW,"the 
+Bipartisan Infrastructure Law",Named documents made into laws.
+159,DATE,today,Absolute or relative dates or periods
+160,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+161,NORP,Democrats,Nationalities or religious or political groups
+162,NORP,Republicans,Nationalities or religious or political groups
+163,DATE,today,Absolute or relative dates or periods
+164,ORG,Committee,"Companies, agencies, institutions, etc."
+165,GPE,West Virginia,"Countries, cities, states"
+166,GPE,West Virginia,"Countries, cities, states"
+167,GPE,West Virginia,"Countries, cities, states"
+168,PERSON,Carper,"People, including fictional"
+169,ORG,Committee,"Companies, agencies, institutions, etc."
+170,GPE,Raleigh County,"Countries, cities, states"
+171,GPE,West Virginia,"Countries, cities, states"
+172,LAW,Matthew 25,Named documents made into laws.
+173,NORP,Americans,Nationalities or religious or political groups
+174,GPE,Beckley,"Countries, cities, states"
+175,DATE,"2 of those 6 
+years",Absolute or relative dates or periods
+176,DATE,my first 6 years,Absolute or relative dates or periods
+177,GPE,Beaver,"Countries, cities, states"
+178,GPE,Beaver,"Countries, cities, states"
+179,GPE,Beckley,"Countries, cities, states"
+180,LOC,"Beaver 
+","Non-GPE locations, mountain ranges, bodies of water"
+181,LOC,Beaver Creek,"Non-GPE locations, mountain ranges, bodies of water"
+182,LOC,Beaver Creek,"Non-GPE locations, mountain ranges, bodies of water"
+183,GPE,West Virginia,"Countries, cities, states"
+184,DATE,the years,Absolute or relative dates or periods
+185,PERSON,Capito,"People, including fictional"
+186,PERSON,Cardin,"People, including fictional"
+187,PERSON,Lummis,"People, including fictional"
+188,PERSON,Duckworth,"People, including fictional"
+189,PERSON,Cramer,"People, including fictional"
+190,ORG,Committee,"Companies, agencies, institutions, etc."
+191,ORG,Committee,"Companies, agencies, institutions, etc."
+192,LAW,"the 
+Drinking Water and Wastewater Infrastructure Act",Named documents made into laws.
+193,ORG,EPA,"Companies, agencies, institutions, etc."
+194,ORG,State,"Companies, agencies, institutions, etc."
+195,GPE,America,"Countries, cities, states"
+196,ORG,Committee,"Companies, agencies, institutions, etc."
+197,ORG,Senate,"Companies, agencies, institutions, etc."
+198,CARDINAL,89,Numerals that do not fall under another type
+199,CARDINAL,2,Numerals that do not fall under another type
+200,NORP,American,Nationalities or religious or political groups
+201,ORG,Committee,"Companies, agencies, institutions, etc."
+202,ORG,Committee,"Companies, agencies, institutions, etc."
+203,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+204,PERSON,Biden,"People, including fictional"
+205,DATE,November 2021,Absolute or relative dates or periods
+206,LAW,The Bipartisan Infrastructure Law,Named documents made into laws.
+207,MONEY,$55 billion,"Monetary values, including unit"
+208,MONEY,$55 billion,"Monetary values, including unit"
+209,CARDINAL,billion,Numerals that do not fall under another type
+210,ORG,EPA,"Companies, agencies, institutions, etc."
+211,NORP,American,Nationalities or religious or political groups
+212,DATE,Today,Absolute or relative dates or periods
+213,LAW,"Bipartisan Infrastructure 
+Law",Named documents made into laws.
+214,DATE,today,Absolute or relative dates or periods
+215,PERSON,Capito,"People, including fictional"
+216,PERSON,Capito,"People, including fictional"
+217,PERSON,HON. SHELLEY MOORE CAPITO,"People, including fictional"
+218,GPE,U.S.,"Countries, cities, states"
+219,GPE,THE STATE OF WEST VIRGINIA,"Countries, cities, states"
+220,PERSON,Capito,"People, including fictional"
+221,DATE,today,Absolute or relative dates or periods
+222,PERSON,Fox,"People, including fictional"
+223,DATE,today,Absolute or relative dates or periods
+224,ORG,Committee,"Companies, agencies, institutions, etc."
+225,DATE,"many 
+",Absolute or relative dates or periods
+226,ORG,This Committee,"Companies, agencies, institutions, etc."
+227,DATE,Today,Absolute or relative dates or periods
+228,NORP,Americans,Nationalities or religious or political groups
+229,ORG,Committee,"Companies, agencies, institutions, etc."
+230,DATE,"the 
+last",Absolute or relative dates or periods
+231,ORG,Congress,"Companies, agencies, institutions, etc."
+232,GPE,America,"Countries, cities, states"
+233,LAW,"The DWWIA 
+Act",Named documents made into laws.
+234,ORG,Committee,"Companies, agencies, institutions, etc."
+235,LAW,the Infrastructure Investment and Jobs Act,Named documents made into laws.
+236,LAW,IIJA,Named documents made into laws.
+237,LAW,IIJA,Named documents made into laws.
+238,MONEY,$55 billion,"Monetary values, including unit"
+239,GPE,States,"Countries, cities, states"
+240,ORG,EPA,"Companies, agencies, institutions, etc."
+241,ORG,Congress,"Companies, agencies, institutions, etc."
+242,PERSON,Biden,"People, including fictional"
+243,ORG,States,"Companies, agencies, institutions, etc."
+244,ORG,Federal,"Companies, agencies, institutions, etc."
+245,LAW,the Safe Drinking Water Act,Named documents made into laws.
+246,LAW,"Clean 
+Water",Named documents made into laws.
+247,LAW,IIJA,Named documents made into laws.
+248,ORG,Congress,"Companies, agencies, institutions, etc."
+249,ORG,Administration,"Companies, agencies, institutions, etc."
+250,GPE,West Virginia,"Countries, cities, states"
+251,ORG,Congress,"Companies, agencies, institutions, etc."
+252,ORG,EPA,"Companies, agencies, institutions, etc."
+253,GPE,West Virginia,"Countries, cities, states"
+254,PERSON,Kathy Emery,"People, including fictional"
+255,GPE,West Virginia,"Countries, cities, states"
+256,GPE,Raleigh County,"Countries, cities, states"
+257,PERSON,Roy,"People, including fictional"
+258,PERSON,Taylor,"People, including fictional"
+259,ORG,"West 
+Virginia University","Companies, agencies, institutions, etc."
+260,ORG,West Virginia University,"Companies, agencies, institutions, etc."
+261,PERSON,Carper,"People, including fictional"
+262,GPE,Raleigh County,"Countries, cities, states"
+263,CARDINAL,one,Numerals that do not fall under another type
+264,GPE,"Raleigh 
+","Countries, cities, states"
+265,DATE,today,Absolute or relative dates or periods
+266,DATE,just about every day,Absolute or relative dates or periods
+267,GPE,Delaware,"Countries, cities, states"
+268,DATE,The other day,Absolute or relative dates or periods
+269,GPE,States,"Countries, cities, states"
+270,ORDINAL,first,"""first"", ""second"", etc."
+271,DATE,today,Absolute or relative dates or periods
+272,PERSON,Radhika Fox,"People, including fictional"
+273,ORG,the U.S. Environmental Protection Agency's,"Companies, agencies, institutions, etc."
+274,ORG,Office of Water,"Companies, agencies, institutions, etc."
+275,PERSON,Fox,"People, including fictional"
+276,PERSON,HON.,"People, including fictional"
+277,PERSON,RADHIKA FOX,"People, including fictional"
+278,ORG,"OFFICE 
+           OF WATER","Companies, agencies, institutions, etc."
+279,PERSON,Fox,"People, including fictional"
+280,TIME,morning,Times smaller than a day
+281,PERSON,Carper,"People, including fictional"
+282,PERSON,Capito,"People, including fictional"
+283,ORG,Committee,"Companies, agencies, institutions, etc."
+284,ORG,EPA,"Companies, agencies, institutions, etc."
+285,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+286,ORG,Committee,"Companies, agencies, institutions, etc."
+287,MONEY,over $50 billion,"Monetary values, including unit"
+288,GPE,America,"Countries, cities, states"
+289,TIME,a moment,Times smaller than a day
+290,ORG,EPA,"Companies, agencies, institutions, etc."
+291,ORG,"the 
+Office of Groundwater and Drinking Water","Companies, agencies, institutions, etc."
+292,DATE,today,Absolute or relative dates or periods
+293,LAW,"the 
+Bipartisan Infrastructure Law",Named documents made into laws.
+294,NORP,American,Nationalities or religious or political groups
+295,ORG,EPA,"Companies, agencies, institutions, etc."
+296,ORG,Congress,"Companies, agencies, institutions, etc."
+297,MONEY,about $43 billion,"Monetary values, including unit"
+298,DATE,March 2022,Absolute or relative dates or periods
+299,ORG,EPA,"Companies, agencies, institutions, etc."
+300,CARDINAL,one,Numerals that do not fall under another type
+301,GPE,States,"Countries, cities, states"
+302,GPE,America,"Countries, cities, states"
+303,GPE,States,"Countries, cities, states"
+304,ORG,State,"Companies, agencies, institutions, etc."
+305,GPE,States,"Countries, cities, states"
+306,LAW,"the Bipartisan Infrastructure 
+Law",Named documents made into laws.
+307,DATE,about 1 year later,Absolute or relative dates or periods
+308,CARDINAL,47,Numerals that do not fall under another type
+309,CARDINAL,six,Numerals that do not fall under another type
+310,MONEY,nearly $5 billion,"Monetary values, including unit"
+311,DATE,the first year,Absolute or relative dates or periods
+312,TIME,a minute,Times smaller than a day
+313,FAC,"Sierra Vista RV 
+Park","Buildings, airports, highways, bridges, etc."
+314,GPE,Arizona,"Countries, cities, states"
+315,GPE,"Sussex 
+","Countries, cities, states"
+316,GPE,Delaware,"Countries, cities, states"
+317,CARDINAL,hundreds,Numerals that do not fall under another type
+318,LOC,the Delaware Bay,"Non-GPE locations, mountain ranges, bodies of water"
+319,GPE,Pittsburgh,"Countries, cities, states"
+320,CARDINAL,"nearly 1,000",Numerals that do not fall under another type
+321,CARDINAL,thousands,Numerals that do not fall under another type
+322,GPE,America,"Countries, cities, states"
+323,LAW,"the 
+Bipartisan Infrastructure Law",Named documents made into laws.
+324,LAW,"The 
+Bipartisan Infrastructure Law",Named documents made into laws.
+325,DATE,Just a few weeks ago,Absolute or relative dates or periods
+326,MONEY,"$2 
+","Monetary values, including unit"
+327,GPE,States,"Countries, cities, states"
+328,LAW,The Bipartisan Infrastructure Law,Named documents made into laws.
+329,MONEY,"nearly 
+$2 billion","Monetary values, including unit"
+330,ORG,Geographic National Estuary,"Companies, agencies, institutions, etc."
+331,LOC,Gulf Hypoxia,"Non-GPE locations, mountain ranges, bodies of water"
+332,LOC,the Chesapeake Bay,"Non-GPE locations, mountain ranges, bodies of water"
+333,LOC,the Great Lakes,"Non-GPE locations, mountain ranges, bodies of water"
+334,LOC,"the Mississippi River 
+","Non-GPE locations, mountain ranges, bodies of water"
+335,LOC,the Gulf of Mexico,"Non-GPE locations, mountain ranges, bodies of water"
+336,LOC,the San Francisco Bay,"Non-GPE locations, mountain ranges, bodies of water"
+337,LAW,"the Bipartisan 
+Infrastructure Law",Named documents made into laws.
+338,MONEY,$50 million,"Monetary values, including unit"
+339,ORG,States,"Companies, agencies, institutions, etc."
+340,ORG,States,"Companies, agencies, institutions, etc."
+341,DATE,the end of this year,Absolute or relative dates or periods
+342,PERSON,Capito,"People, including fictional"
+343,PERSON,Carper,"People, including fictional"
+344,ORG,Federal,"Companies, agencies, institutions, etc."
+345,ORG,EPA,"Companies, agencies, institutions, etc."
+346,ORG,States,"Companies, agencies, institutions, etc."
+347,GPE,McDowell County,"Countries, cities, states"
+348,GPE,"West 
+","Countries, cities, states"
+349,GPE,Virginia,"Countries, cities, states"
+350,GPE,Lowndes County,"Countries, cities, states"
+351,GPE,Alabama,"Countries, cities, states"
+352,CARDINAL,29,Numerals that do not fall under another type
+353,WORK_OF_ART,Closing the Wastewater Access Gap,"Titles of books, songs, etc."
+354,ORG,Congress,"Companies, agencies, institutions, etc."
+355,PERSON,Biden,"People, including fictional"
+356,ORG,EPA,"Companies, agencies, institutions, etc."
+357,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+358,NORP,Americans,Nationalities or religious or political groups
+359,NORP,American,Nationalities or religious or political groups
+360,DATE,today,Absolute or relative dates or periods
+361,PERSON,Fox,"People, including fictional"
+362,PERSON,Carper,"People, including fictional"
+363,DATE,today,Absolute or relative dates or periods
+364,ORG,EPA,"Companies, agencies, institutions, etc."
+365,PERSON,Capito,"People, including fictional"
+366,ORG,Committee,"Companies, agencies, institutions, etc."
+367,DATE,last week,Absolute or relative dates or periods
+368,GPE,East Palestine,"Countries, cities, states"
+369,GPE,East Palestine,"Countries, cities, states"
+370,GPE,America,"Countries, cities, states"
+371,PERSON,Fox,"People, including fictional"
+372,CARDINAL,two,Numerals that do not fall under another type
+373,DATE,today,Absolute or relative dates or periods
+374,ORG,EPA,"Companies, agencies, institutions, etc."
+375,DATE,yesterday,Absolute or relative dates or periods
+376,CARDINAL,six,Numerals that do not fall under another type
+377,PERSON,Regan,"People, including fictional"
+378,PERSON,Biden,"People, including fictional"
+379,ORG,EPA,"Companies, agencies, institutions, etc."
+380,DATE,yesterday,Absolute or relative dates or periods
+381,PERSON,Fox,"People, including fictional"
+382,PERSON,Fox,"People, including fictional"
+383,PERSON,Capito,"People, including fictional"
+384,ORG,Committee,"Companies, agencies, institutions, etc."
+385,PERSON,Capito,"People, including fictional"
+386,DATE,yesterday,Absolute or relative dates or periods
+387,DATE,the 2 years,Absolute or relative dates or periods
+388,NORP,American,Nationalities or religious or political groups
+389,CARDINAL,one,Numerals that do not fall under another type
+390,DATE,yesterday,Absolute or relative dates or periods
+391,CARDINAL,dozen,Numerals that do not fall under another type
+392,CARDINAL,six,Numerals that do not fall under another type
+393,QUANTITY,four parts per trillion for,"Measurements, as of weight or distance"
+394,QUANTITY,"Four parts 
+per trillion is","Measurements, as of weight or distance"
+395,CARDINAL,four,Numerals that do not fall under another type
+396,CARDINAL,four,Numerals that do not fall under another type
+397,CARDINAL,four,Numerals that do not fall under another type
+398,CARDINAL,four,Numerals that do not fall under another type
+399,NORP,American,Nationalities or religious or political groups
+400,DATE,60 day,Absolute or relative dates or periods
+401,ORG,State,"Companies, agencies, institutions, etc."
+402,DATE,the end of 2023,Absolute or relative dates or periods
+403,DATE,2024,Absolute or relative dates or periods
+404,ORG,Committee,"Companies, agencies, institutions, etc."
+405,PERSON,Carper,"People, including fictional"
+406,CARDINAL,One,Numerals that do not fall under another type
+407,PERSON,Capito,"People, including fictional"
+408,PERSON,Cramer,"People, including fictional"
+409,PERSON,Capito,"People, including fictional"
+410,PERSON,Capito,"People, including fictional"
+411,PERSON,Fox,"People, including fictional"
+412,DATE,yesterday,Absolute or relative dates or periods
+413,DATE,several months ago,Absolute or relative dates or periods
+414,DATE,a year ago,Absolute or relative dates or periods
+415,ORG,EPA,"Companies, agencies, institutions, etc."
+416,DATE,today,Absolute or relative dates or periods
+417,CARDINAL,4,Numerals that do not fall under another type
+418,DATE,Yesterday,Absolute or relative dates or periods
+419,DATE,the day before,Absolute or relative dates or periods
+420,CARDINAL,"1,800",Numerals that do not fall under another type
+421,ORG,EPA,"Companies, agencies, institutions, etc."
+422,PERSON,Fox,"People, including fictional"
+423,PERSON,Capito,"People, including fictional"
+424,LAW,CERCLA,Named documents made into laws.
+425,ORG,Congress,"Companies, agencies, institutions, etc."
+426,PERSON,Fox,"People, including fictional"
+427,LAW,CERCLA,Named documents made into laws.
+428,ORG,"Office 
+of Land and Emergency Management","Companies, agencies, institutions, etc."
+429,CARDINAL,one,Numerals that do not fall under another type
+430,ORG,Office of Water,"Companies, agencies, institutions, etc."
+431,ORG,"the 
+Office of Land and Emergency Management","Companies, agencies, institutions, etc."
+432,LAW,CERCLA,Named documents made into laws.
+433,LAW,CERCLA,Named documents made into laws.
+434,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+435,MONEY,$9 billion,"Monetary values, including unit"
+436,PERSON,Capito,"People, including fictional"
+437,GPE,DC,"Countries, cities, states"
+438,GPE,States,"Countries, cities, states"
+439,GPE,West Virginia,"Countries, cities, states"
+440,PERSON,Fox,"People, including fictional"
+441,LAW,"the Bipartisan 
+Infrastructure Law",Named documents made into laws.
+442,PERSON,Capito,"People, including fictional"
+443,CARDINAL,thousands,Numerals that do not fall under another type
+444,GPE,States,"Countries, cities, states"
+445,GPE,States,"Countries, cities, states"
+446,CARDINAL,One,Numerals that do not fall under another type
+447,LAW,SRF,Named documents made into laws.
+448,ORG,States,"Companies, agencies, institutions, etc."
+449,LAW,Clean Water SRF,Named documents made into laws.
+450,LAW,Drinking Water SRF,Named documents made into laws.
+451,GPE,States,"Countries, cities, states"
+452,GPE,States,"Countries, cities, states"
+453,LAW,"the 
+Safe Drinking Water Act",Named documents made into laws.
+454,LAW,Clean Water Act,Named documents made into laws.
+455,GPE,States,"Countries, cities, states"
+456,PERSON,Capito,"People, including fictional"
+457,GPE,States,"Countries, cities, states"
+458,GPE,States,"Countries, cities, states"
+459,ORG,EPA,"Companies, agencies, institutions, etc."
+460,ORG,Transportation,"Companies, agencies, institutions, etc."
+461,ORG,Administration,"Companies, agencies, institutions, etc."
+462,ORG,EPA,"Companies, agencies, institutions, etc."
+463,PERSON,Cramer,"People, including fictional"
+464,PERSON,Cramer,"People, including fictional"
+465,PERSON,Fox,"People, including fictional"
+466,ORDINAL,First,"""first"", ""second"", etc."
+467,GPE,North Dakota,"Countries, cities, states"
+468,DATE,2021,Absolute or relative dates or periods
+469,ORG,WOTUS,"Companies, agencies, institutions, etc."
+470,ORG,State,"Companies, agencies, institutions, etc."
+471,ORG,WOTUS,"Companies, agencies, institutions, etc."
+472,LAW,"the 
+Infrastructure Bill",Named documents made into laws.
+473,ORG,State,"Companies, agencies, institutions, etc."
+474,ORG,WIFIA,"Companies, agencies, institutions, etc."
+475,ORG,State,"Companies, agencies, institutions, etc."
+476,GPE,North Dakota,"Countries, cities, states"
+477,GPE,North Dakota,"Countries, cities, states"
+478,PERSON,Waters,"People, including fictional"
+479,PERSON,Regan,"People, including fictional"
+480,DATE,2021,Absolute or relative dates or periods
+481,DATE,2015,Absolute or relative dates or periods
+482,PERSON,Trump,"People, including fictional"
+483,PERSON,Fox,"People, including fictional"
+484,GPE,North Dakota,"Countries, cities, states"
+485,ORG,State,"Companies, agencies, institutions, etc."
+486,GPE,North Dakota,"Countries, cities, states"
+487,LAW,Bipartisan Infrastructure Law,Named documents made into laws.
+488,DATE,year one,Absolute or relative dates or periods
+489,GPE,North Dakota,"Countries, cities, states"
+490,ORG,Waters of the United States,"Companies, agencies, institutions, etc."
+491,GPE,North Dakota,"Countries, cities, states"
+492,LAW,Waters of the United States,Named documents made into laws.
+493,PERSON,Regan,"People, including fictional"
+494,LAW,"Waters of the United 
+",Named documents made into laws.
+495,LAW,the Obama Clean Water Rule,Named documents made into laws.
+496,LAW,Waters of the United States,Named documents made into laws.
+497,LAW,"the 
+Obama Rule",Named documents made into laws.
+498,LAW,the Trump Navigable Waters Rule,Named documents made into laws.
+499,DATE,August 2021,Absolute or relative dates or periods
+500,CARDINAL,One,Numerals that do not fall under another type
+501,GPE,"North 
+","Countries, cities, states"
+502,CARDINAL,One,Numerals that do not fall under another type
+503,DATE,2023,Absolute or relative dates or periods
+504,ORG,Army Corps,"Companies, agencies, institutions, etc."
+505,CARDINAL,One,Numerals that do not fall under another type
+506,DATE,2020,Absolute or relative dates or periods
+507,CARDINAL,eight,Numerals that do not fall under another type
+508,GPE,"North 
+","Countries, cities, states"
+509,ORG,USDA,"Companies, agencies, institutions, etc."
+510,ORG,USDA,"Companies, agencies, institutions, etc."
+511,ORG,Federal,"Companies, agencies, institutions, etc."
+512,CARDINAL,One,Numerals that do not fall under another type
+513,ORG,EPA,"Companies, agencies, institutions, etc."
+514,ORG,Army,"Companies, agencies, institutions, etc."
+515,ORG,USDA,"Companies, agencies, institutions, etc."
+516,LOC,Waters of,"Non-GPE locations, mountain ranges, bodies of water"
+517,GPE,"the 
+United States","Countries, cities, states"
+518,PERSON,Cramer,"People, including fictional"
+519,NORP,Republican,Nationalities or religious or political groups
+520,DATE,today,Absolute or relative dates or periods
+521,PERSON,Cramer,"People, including fictional"
+522,PERSON,Capito,"People, including fictional"
+523,PERSON,Cardin,"People, including fictional"
+524,PERSON,Cardin,"People, including fictional"
+525,DATE,generations,Absolute or relative dates or periods
+526,GPE,Baltimore City,"Countries, cities, states"
+527,GPE,Baltimore City,"Countries, cities, states"
+528,DATE,100 years ago,Absolute or relative dates or periods
+529,DATE,today,Absolute or relative dates or periods
+530,GPE,Baltimore,"Countries, cities, states"
+531,CARDINAL,One,Numerals that do not fall under another type
+532,LAW,"the 
+Bipartisan Infrastructure Law",Named documents made into laws.
+533,ORG,Congress,"Companies, agencies, institutions, etc."
+534,PERSON,Fox,"People, including fictional"
+535,CARDINAL,One,Numerals that do not fall under another type
+536,LAW,"the 
+Bipartisan",Named documents made into laws.
+537,PERCENT,"about 49 
+percent","Percentage, including ""%"""
+538,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+539,CARDINAL,29,Numerals that do not fall under another type
+540,ORG,EPA,"Companies, agencies, institutions, etc."
+541,ORG,"the San 
+Francisco Public Utilities Commission","Companies, agencies, institutions, etc."
+542,ORG,TA,"Companies, agencies, institutions, etc."
+543,ORG,Committee,"Companies, agencies, institutions, etc."
+544,CARDINAL,thousands,Numerals that do not fall under another type
+545,MONEY,these SRF dollars,"Monetary values, including unit"
+546,PERSON,Cardin,"People, including fictional"
+547,GPE,Baltimore City,"Countries, cities, states"
+548,GPE,Smith Island,"Countries, cities, states"
+549,CARDINAL,one,Numerals that do not fall under another type
+550,MONEY,$3 million,"Monetary values, including unit"
+551,DATE,"fiscal 
+year 2023",Absolute or relative dates or periods
+552,PERSON,Wicker,"People, including fictional"
+553,DATE,today,Absolute or relative dates or periods
+554,ORG,LIHEAP,"Companies, agencies, institutions, etc."
+555,PERSON,Fox,"People, including fictional"
+556,MONEY,$50 billion,"Monetary values, including unit"
+557,ORG,the Federal Government,"Companies, agencies, institutions, etc."
+558,ORG,the U.S. Water Alliance,"Companies, agencies, institutions, etc."
+559,ORG,HHS,"Companies, agencies, institutions, etc."
+560,PERSON,Cardin,"People, including fictional"
+561,PERSON,Wicker,"People, including fictional"
+562,ORG,HHS,"Companies, agencies, institutions, etc."
+563,ORG,Congress,"Companies, agencies, institutions, etc."
+564,PERSON,Cardin,"People, including fictional"
+565,ORG,the American Sustainable Business Network,"Companies, agencies, institutions, etc."
+566,CARDINAL,more than 400,Numerals that do not fall under another type
+567,LAW,the Congressional Review Act,Named documents made into laws.
+568,DATE,2023,Absolute or relative dates or periods
+569,PERSON,Capito,"People, including fictional"
+570,PERSON,Cardin,"People, including fictional"
+571,PERSON,Capito,"People, including fictional"
+572,PERSON,Lummis,"People, including fictional"
+573,PERSON,Lummis,"People, including fictional"
+574,PERSON,Fox,"People, including fictional"
+575,PERSON,Cramer,"People, including fictional"
+576,GPE,"North 
+","Countries, cities, states"
+577,DATE,today,Absolute or relative dates or periods
+578,ORG,EPA,"Companies, agencies, institutions, etc."
+579,CARDINAL,close to a dozen,Numerals that do not fall under another type
+580,DATE,the summer of 2020,Absolute or relative dates or periods
+581,DATE,60 days,Absolute or relative dates or periods
+582,PERSON,Fox,"People, including fictional"
+583,CARDINAL,12,Numerals that do not fall under another type
+584,ORG,States,"Companies, agencies, institutions, etc."
+585,ORG,EPA,"Companies, agencies, institutions, etc."
+586,CARDINAL,12,Numerals that do not fall under another type
+587,PERSON,Lummis,"People, including fictional"
+588,PERSON,Regan,"People, including fictional"
+589,DATE,"January 25th, 2023",Absolute or relative dates or periods
+590,ORG,EPA,"Companies, agencies, institutions, etc."
+591,ORG,State,"Companies, agencies, institutions, etc."
+592,PERSON,Capito,"People, including fictional"
+593,PERSON,Lummis,"People, including fictional"
+594,ORG,EPA,"Companies, agencies, institutions, etc."
+595,ORG,EPA,"Companies, agencies, institutions, etc."
+596,ORG,EPA,"Companies, agencies, institutions, etc."
+597,ORG,"the American Water 
+Works Association","Companies, agencies, institutions, etc."
+598,ORG,"National Association of Clean Water 
+","Companies, agencies, institutions, etc."
+599,ORG,National Rural Water Association,"Companies, agencies, institutions, etc."
+600,ORG,"U.S. Conference of 
+","Companies, agencies, institutions, etc."
+601,ORG,National Association of Counties,"Companies, agencies, institutions, etc."
+602,PERSON,Fox,"People, including fictional"
+603,ORG,EPA,"Companies, agencies, institutions, etc."
+604,ORG,State,"Companies, agencies, institutions, etc."
+605,DATE,this modern age,Absolute or relative dates or periods
+606,CARDINAL,one,Numerals that do not fall under another type
+607,ORG,"the 
+Association of State Drinking Water Administrators","Companies, agencies, institutions, etc."
+608,ORG,State,"Companies, agencies, institutions, etc."
+609,PERSON,Lummis,"People, including fictional"
+610,PERSON,Regan,"People, including fictional"
+611,ORG,EPA,"Companies, agencies, institutions, etc."
+612,PERSON,Fox,"People, including fictional"
+613,PERSON,Carper,"People, including fictional"
+614,PERSON,Lummis,"People, including fictional"
+615,PERSON,Kelly,"People, including fictional"
+616,PERSON,Kelly,"People, including fictional"
+617,TIME,morning,Times smaller than a day
+618,PERSON,Kelly,"People, including fictional"
+619,TIME,morning,Times smaller than a day
+620,PERSON,Fox,"People, including fictional"
+621,DATE,today,Absolute or relative dates or periods
+622,DATE,yesterday,Absolute or relative dates or periods
+623,ORG,EPA,"Companies, agencies, institutions, etc."
+624,ORG,the Army Corps,"Companies, agencies, institutions, etc."
+625,LAW,"Waters of 
+the",Named documents made into laws.
+626,ORG,Congress,"Companies, agencies, institutions, etc."
+627,LAW,the Congressional Review Act,Named documents made into laws.
+628,PERSON,Sinema,"People, including fictional"
+629,CARDINAL,two,Numerals that do not fall under another type
+630,ORG,EPA,"Companies, agencies, institutions, etc."
+631,ORG,Corps,"Companies, agencies, institutions, etc."
+632,DATE,last week,Absolute or relative dates or periods
+633,TIME,a minute,Times smaller than a day
+634,LAW,CRA,Named documents made into laws.
+635,DATE,2023,Absolute or relative dates or periods
+636,PERSON,Trump,"People, including fictional"
+637,LAW,Navigable Waters Protection,Named documents made into laws.
+638,PERSON,Fox,"People, including fictional"
+639,DATE,"August 
+2021",Absolute or relative dates or periods
+640,PERSON,Kelly,"People, including fictional"
+641,DATE,2025,Absolute or relative dates or periods
+642,PERSON,Obama,"People, including fictional"
+643,ORG,WOTUS,"Companies, agencies, institutions, etc."
+644,PERSON,Fox,"People, including fictional"
+645,PERSON,Kelly,"People, including fictional"
+646,DATE,pre-2015,Absolute or relative dates or periods
+647,ORG,WOTUS,"Companies, agencies, institutions, etc."
+648,PERSON,Fox,"People, including fictional"
+649,PERSON,Kelly,"People, including fictional"
+650,ORG,WOTUS,"Companies, agencies, institutions, etc."
+651,ORG,EPA,"Companies, agencies, institutions, etc."
+652,ORG,the Army Corps,"Companies, agencies, institutions, etc."
+653,DATE,this January,Absolute or relative dates or periods
+654,PERSON,Fox,"People, including fictional"
+655,PERSON,Kelly,"People, including fictional"
+656,PERSON,Fox,"People, including fictional"
+657,ORG,CRA,"Companies, agencies, institutions, etc."
+658,DATE,pre-2015,Absolute or relative dates or periods
+659,LAW,"Waters of 
+the",Named documents made into laws.
+660,DATE,2023,Absolute or relative dates or periods
+661,DATE,2023,Absolute or relative dates or periods
+662,LAW,"Waters 
+of",Named documents made into laws.
+663,GPE,the United States,"Countries, cities, states"
+664,ORG,CRA,"Companies, agencies, institutions, etc."
+665,DATE,2015,Absolute or relative dates or periods
+666,CARDINAL,two,Numerals that do not fall under another type
+667,DATE,2023,Absolute or relative dates or periods
+668,DATE,2015,Absolute or relative dates or periods
+669,DATE,2015,Absolute or relative dates or periods
+670,DATE,2023,Absolute or relative dates or periods
+671,ORG,CRA,"Companies, agencies, institutions, etc."
+672,PERSON,Cramer,"People, including fictional"
+673,TIME,just a moment ago,Times smaller than a day
+674,ORG,CRA,"Companies, agencies, institutions, etc."
+675,PERSON,Kelly,"People, including fictional"
+676,DATE,2023,Absolute or relative dates or periods
+677,PERSON,Fox,"People, including fictional"
+678,PERSON,Kelly,"People, including fictional"
+679,DATE,the 2015,Absolute or relative dates or periods
+680,ORG,CRA,"Companies, agencies, institutions, etc."
+681,LAW,Waters of the United States,Named documents made into laws.
+682,PERSON,Fox,"People, including fictional"
+683,PERSON,Kelly,"People, including fictional"
+684,ORG,CRA,"Companies, agencies, institutions, etc."
+685,PERSON,Fox,"People, including fictional"
+686,LAW,Waters of the United States,Named documents made into laws.
+687,ORG,USDA,"Companies, agencies, institutions, etc."
+688,ORG,EPA,"Companies, agencies, institutions, etc."
+689,ORG,Army Corps,"Companies, agencies, institutions, etc."
+690,PERSON,Waters,"People, including fictional"
+691,GPE,the United States,"Countries, cities, states"
+692,ORG,Committee,"Companies, agencies, institutions, etc."
+693,PERSON,Kelly,"People, including fictional"
+694,PERSON,Fox,"People, including fictional"
+695,PERSON,Carper,"People, including fictional"
+696,PERSON,Kelly,"People, including fictional"
+697,PERSON,Fox,"People, including fictional"
+698,ORG,Committee,"Companies, agencies, institutions, etc."
+699,PERSON,Ricketts,"People, including fictional"
+700,PERSON,Sullivan,"People, including fictional"
+701,PERSON,Ricketts,"People, including fictional"
+702,PERSON,Carper,"People, including fictional"
+703,PERSON,Capito,"People, including fictional"
+704,PERSON,Fox,"People, including fictional"
+705,PERSON,Cardin,"People, including fictional"
+706,GPE,Nebraska,"Countries, cities, states"
+707,ORG,EPA,"Companies, agencies, institutions, etc."
+708,DATE,Tuesday,Absolute or relative dates or periods
+709,ORDINAL,first,"""first"", ""second"", etc."
+710,CARDINAL,six,Numerals that do not fall under another type
+711,PERSON,Fox,"People, including fictional"
+712,ORG,the Office of Water,"Companies, agencies, institutions, etc."
+713,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+714,CARDINAL,One,Numerals that do not fall under another type
+715,ORG,Congress,"Companies, agencies, institutions, etc."
+716,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+717,MONEY,"$5 
+","Monetary values, including unit"
+718,GPE,America,"Countries, cities, states"
+719,CARDINAL,29,Numerals that do not fall under another type
+720,ORG,National Rural Water,"Companies, agencies, institutions, etc."
+721,ORG,RCAP,"Companies, agencies, institutions, etc."
+722,ORG,"the Rural Community 
+Assistance Program","Companies, agencies, institutions, etc."
+723,GPE,America,"Countries, cities, states"
+724,GPE,America,"Countries, cities, states"
+725,PERSON,Ricketts,"People, including fictional"
+726,PERSON,Fox,"People, including fictional"
+727,PERSON,Ricketts,"People, including fictional"
+728,PERSON,Fox,"People, including fictional"
+729,GPE,States,"Countries, cities, states"
+730,ORG,SRF State,"Companies, agencies, institutions, etc."
+731,TIME,night,Times smaller than a day
+732,ORG,State,"Companies, agencies, institutions, etc."
+733,PERSON,Ricketts,"People, including fictional"
+734,ORG,Congress,"Companies, agencies, institutions, etc."
+735,PERSON,Fox,"People, including fictional"
+736,GPE,States,"Countries, cities, states"
+737,GPE,Oklahoma,"Countries, cities, states"
+738,GPE,States,"Countries, cities, states"
+739,PERSON,Ricketts,"People, including fictional"
+740,PERSON,Fox,"People, including fictional"
+741,PERSON,Carper,"People, including fictional"
+742,PERSON,Ricketts,"People, including fictional"
+743,PERSON,Sullivan,"People, including fictional"
+744,TIME,good morning,Times smaller than a day
+745,PERSON,Sullivan,"People, including fictional"
+746,PERSON,Fox,"People, including fictional"
+747,GPE,America,"Countries, cities, states"
+748,GPE,Alaska,"Countries, cities, states"
+749,DATE,the last 25 years,Absolute or relative dates or periods
+750,DATE,from 1980 to 2014,Absolute or relative dates or periods
+751,GPE,America,"Countries, cities, states"
+752,NORP,Americans,Nationalities or religious or political groups
+753,LOC,"the North 
+","Non-GPE locations, mountain ranges, bodies of water"
+754,LOC,Aleutian Island,"Non-GPE locations, mountain ranges, bodies of water"
+755,DATE,"the 
+last 25 years",Absolute or relative dates or periods
+756,DATE,up to 13 years,Absolute or relative dates or periods
+757,DATE,1980 to 2014,Absolute or relative dates or periods
+758,GPE,Alaska,"Countries, cities, states"
+759,DATE,"that 
+time",Absolute or relative dates or periods
+760,ORG,Federal,"Companies, agencies, institutions, etc."
+761,GPE,Alaska,"Countries, cities, states"
+762,PERSON,Fox,"People, including fictional"
+763,PERSON,Sullivan,"People, including fictional"
+764,PERSON,Fox,"People, including fictional"
+765,PERSON,Sullivan,"People, including fictional"
+766,CARDINAL,one,Numerals that do not fall under another type
+767,PERSON,Willow,"People, including fictional"
+768,NORP,Alaska Native,Nationalities or religious or political groups
+769,GPE,Alaska,"Countries, cities, states"
+770,ORG,Administration,"Companies, agencies, institutions, etc."
+771,LOC,Ambler,"Non-GPE locations, mountain ranges, bodies of water"
+772,DATE,7 year,Absolute or relative dates or periods
+773,MONEY,$10 million,"Monetary values, including unit"
+774,DATE,The same day,Absolute or relative dates or periods
+775,ORG,the White House,"Companies, agencies, institutions, etc."
+776,GPE,China,"Countries, cities, states"
+777,GPE,Alaska,"Countries, cities, states"
+778,ORG,the Department of Interior,"Companies, agencies, institutions, etc."
+779,PERSON,Haaland,"People, including fictional"
+780,ORG,EPA,"Companies, agencies, institutions, etc."
+781,FAC,Pebble,"Buildings, airports, highways, bridges, etc."
+782,ORG,EPA,"Companies, agencies, institutions, etc."
+783,GPE,Alaska,"Countries, cities, states"
+784,PERSON,Regan,"People, including fictional"
+785,ORG,EPA,"Companies, agencies, institutions, etc."
+786,GPE,Alaska,"Countries, cities, states"
+787,GPE,Alaska,"Countries, cities, states"
+788,PERSON,Deb Haaland,"People, including fictional"
+789,PERSON,Ambler,"People, including fictional"
+790,DATE,yesterday,Absolute or relative dates or periods
+791,FAC,King Cove Road,"Buildings, airports, highways, bridges, etc."
+792,NORP,Native,Nationalities or religious or political groups
+793,GPE,Alaska,"Countries, cities, states"
+794,NORP,Native,Nationalities or religious or political groups
+795,PERSON,Fox,"People, including fictional"
+796,PERSON,Sullivan,"People, including fictional"
+797,FAC,the Bethel Airport,"Buildings, airports, highways, bridges, etc."
+798,DATE,this past summer,Absolute or relative dates or periods
+799,NORP,Alaska Native,Nationalities or religious or political groups
+800,ORG,EPA,"Companies, agencies, institutions, etc."
+801,CARDINAL,only three,Numerals that do not fall under another type
+802,DATE,the last 30 years,Absolute or relative dates or periods
+803,CARDINAL,three,Numerals that do not fall under another type
+804,PERSON,Regan,"People, including fictional"
+805,LOC,Bristol Bay,"Non-GPE locations, mountain ranges, bodies of water"
+806,PERSON,Sullivan,"People, including fictional"
+807,CARDINAL,one,Numerals that do not fall under another type
+808,ORG,the Tanana Chiefs Conference,"Companies, agencies, institutions, etc."
+809,DATE,yesterday,Absolute or relative dates or periods
+810,GPE,Alaska,"Countries, cities, states"
+811,CARDINAL,30,Numerals that do not fall under another type
+812,GPE,Alaska,"Countries, cities, states"
+813,GPE,America,"Countries, cities, states"
+814,NORP,Alaska Natives,Nationalities or religious or political groups
+815,LAW,"the 
+Infrastructure Bill",Named documents made into laws.
+816,NORP,American,Nationalities or religious or political groups
+817,PERSON,Fox,"People, including fictional"
+818,ORDINAL,first,"""first"", ""second"", etc."
+819,GPE,Alaska,"Countries, cities, states"
+820,DATE,"last 
+",Absolute or relative dates or periods
+821,LAW,"the 
+Bipartisan Infrastructure Law",Named documents made into laws.
+822,PERSON,Biden,"People, including fictional"
+823,ORG,Congress,"Companies, agencies, institutions, etc."
+824,MONEY,$50 billion,"Monetary values, including unit"
+825,PERSON,Sullivan,"People, including fictional"
+826,PERSON,Carper,"People, including fictional"
+827,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+828,PERSON,Fox,"People, including fictional"
+829,ORG,Congress,"Companies, agencies, institutions, etc."
+830,ORG,Federal,"Companies, agencies, institutions, etc."
+831,PERSON,Biden,"People, including fictional"
+832,LAW,Justice 40,Named documents made into laws.
+833,ORG,EPA,"Companies, agencies, institutions, etc."
+834,ORG,Federal,"Companies, agencies, institutions, etc."
+835,PERSON,Fox,"People, including fictional"
+836,GPE,States,"Countries, cities, states"
+837,ORG,CIFA,"Companies, agencies, institutions, etc."
+838,ORG,"the Council of Infrastructure 
+Financing Authorities","Companies, agencies, institutions, etc."
+839,ORG,States,"Companies, agencies, institutions, etc."
+840,ORG,EPA,"Companies, agencies, institutions, etc."
+841,GPE,States,"Countries, cities, states"
+842,GPE,States,"Countries, cities, states"
+843,DATE,annual,Absolute or relative dates or periods
+844,GPE,States,"Countries, cities, states"
+845,ORG,"the Federal 
+","Companies, agencies, institutions, etc."
+846,GPE,States,"Countries, cities, states"
+847,CARDINAL,One,Numerals that do not fall under another type
+848,GPE,States,"Countries, cities, states"
+849,GPE,States,"Countries, cities, states"
+850,PERSON,Carper,"People, including fictional"
+851,CARDINAL,One,Numerals that do not fall under another type
+852,PERSON,Biden,"People, including fictional"
+853,LAW,The Bipartisan Infrastructure Law,Named documents made into laws.
+854,MONEY,$15 billion,"Monetary values, including unit"
+855,DATE,the years,Absolute or relative dates or periods
+856,GPE,Delaware,"Countries, cities, states"
+857,GPE,States,"Countries, cities, states"
+858,GPE,States,"Countries, cities, states"
+859,PERSON,Fox,"People, including fictional"
+860,CARDINAL,One,Numerals that do not fall under another type
+861,PERSON,Biden,"People, including fictional"
+862,ORG,EPA,"Companies, agencies, institutions, etc."
+863,DATE,2 years,Absolute or relative dates or periods
+864,ORG,State,"Companies, agencies, institutions, etc."
+865,ORG,State,"Companies, agencies, institutions, etc."
+866,ORDINAL,first,"""first"", ""second"", etc."
+867,DATE,those 2 years,Absolute or relative dates or periods
+868,ORG,States,"Companies, agencies, institutions, etc."
+869,PERSON,Carper,"People, including fictional"
+870,DATE,today,Absolute or relative dates or periods
+871,GPE,West Virginia,"Countries, cities, states"
+872,GPE,Virginia,"Countries, cities, states"
+873,GPE,Delaware,"Countries, cities, states"
+874,CARDINAL,"about 173,000",Numerals that do not fall under another type
+875,GPE,Delaware,"Countries, cities, states"
+876,CARDINAL,a million,Numerals that do not fall under another type
+877,CARDINAL,"about 173,000",Numerals that do not fall under another type
+878,ORG,Congress,"Companies, agencies, institutions, etc."
+879,LAW,"the Drinking Water and 
+Wastewater Infrastructure Act",Named documents made into laws.
+880,ORG,EPA,"Companies, agencies, institutions, etc."
+881,GPE,States,"Countries, cities, states"
+882,ORG,EPA,"Companies, agencies, institutions, etc."
+883,GPE,States,"Countries, cities, states"
+884,ORG,Congress,"Companies, agencies, institutions, etc."
+885,ORG,EPA,"Companies, agencies, institutions, etc."
+886,LAW,"the Safe 
+Drinking Water Act",Named documents made into laws.
+887,ORG,Congress,"Companies, agencies, institutions, etc."
+888,ORG,EPA,"Companies, agencies, institutions, etc."
+889,GPE,States,"Countries, cities, states"
+890,DATE,today,Absolute or relative dates or periods
+891,ORG,"this Committee on the Environment and Public 
+Works","Companies, agencies, institutions, etc."
+892,GPE,States,"Countries, cities, states"
+893,PERSON,Fox,"People, including fictional"
+894,ORG,Committee,"Companies, agencies, institutions, etc."
+895,PERSON,Carper,"People, including fictional"
+896,PERSON,Fox,"People, including fictional"
+897,PERSON,Carper,"People, including fictional"
+898,PERSON,Fox,"People, including fictional"
+899,LOC,The Pacific Ocean,"Non-GPE locations, mountain ranges, bodies of water"
+900,PERSON,Carper,"People, including fictional"
+901,DATE,today,Absolute or relative dates or periods
+902,TIME,a moment,Times smaller than a day
+903,ORG,Navy,"Companies, agencies, institutions, etc."
+904,FAC,"Moffett Field Naval 
+Air Station","Buildings, airports, highways, bridges, etc."
+905,CARDINAL,two,Numerals that do not fall under another type
+906,ORG,NASA,"Companies, agencies, institutions, etc."
+907,PRODUCT,P3s,"Objects, vehicles, foods, etc. (not services)"
+908,CARDINAL,four,Numerals that do not fall under another type
+909,ORG,NASA,"Companies, agencies, institutions, etc."
+910,TIME,Early one morning,Times smaller than a day
+911,CARDINAL,two,Numerals that do not fall under another type
+912,CARDINAL,two,Numerals that do not fall under another type
+913,ORG,Navy,"Companies, agencies, institutions, etc."
+914,PRODUCT,P3,"Objects, vehicles, foods, etc. (not services)"
+915,ORG,NASA,"Companies, agencies, institutions, etc."
+916,ORG,NASA,"Companies, agencies, institutions, etc."
+917,PRODUCT,P3,"Objects, vehicles, foods, etc. (not services)"
+918,CARDINAL,about 18,Numerals that do not fall under another type
+919,CARDINAL,18,Numerals that do not fall under another type
+920,DATE,About 28 years later,Absolute or relative dates or periods
+921,GPE,Delaware,"Countries, cities, states"
+922,FAC,Route 1,"Buildings, airports, highways, bridges, etc."
+923,GPE,Rehobeth,"Countries, cities, states"
+924,FAC,"Dover 
+Air Force Base","Buildings, airports, highways, bridges, etc."
+925,FAC,"Route 
+","Buildings, airports, highways, bridges, etc."
+926,FAC,the Air Force Base,"Buildings, airports, highways, bridges, etc."
+927,PRODUCT,C5,"Objects, vehicles, foods, etc. (not services)"
+928,FAC,Dover Air Force Base,"Buildings, airports, highways, bridges, etc."
+929,CARDINAL,four,Numerals that do not fall under another type
+930,PRODUCT,C5,"Objects, vehicles, foods, etc. (not services)"
+931,CARDINAL,one,Numerals that do not fall under another type
+932,CARDINAL,four,Numerals that do not fall under another type
+933,CARDINAL,four,Numerals that do not fall under another type
+934,CARDINAL,two,Numerals that do not fall under another type
+935,QUANTITY,about a mile,"Measurements, as of weight or distance"
+936,FAC,"the Dover Air Force 
+Base","Buildings, airports, highways, bridges, etc."
+937,CARDINAL,four,Numerals that do not fall under another type
+938,FAC,Dover Air Force Base,"Buildings, airports, highways, bridges, etc."
+939,GPE,Delaware,"Countries, cities, states"
+940,GPE,"West 
+","Countries, cities, states"
+941,GPE,Virginia,"Countries, cities, states"
+942,PERSON,Capito,"People, including fictional"
+943,PERSON,Capito,"People, including fictional"
+944,PERSON,Carper,"People, including fictional"
+945,ORDINAL,second,"""first"", ""second"", etc."
+946,TIME,Good morning,Times smaller than a day
+947,PERSON,Randy Hayman,"People, including fictional"
+948,ORG,"the Philadelphia 
+Water Department","Companies, agencies, institutions, etc."
+949,DATE,2019,Absolute or relative dates or periods
+950,PERSON,Jim Kenney,"People, including fictional"
+951,DATE,today,Absolute or relative dates or periods
+952,PERSON,RANDY E. HAYMAN,"People, including fictional"
+953,ORG,PHILADELPHIA WATER DEPARTMENT,"Companies, agencies, institutions, etc."
+954,PERSON,Hayman,"People, including fictional"
+955,PERSON,Carper,"People, including fictional"
+956,PERSON,Capito,"People, including fictional"
+957,ORG,Committee,"Companies, agencies, institutions, etc."
+958,LAW,"the Infrastructure Investment and 
+Jobs Act",Named documents made into laws.
+959,LAW,"the Drinking Water and Wastewater Infrastructure 
+Act",Named documents made into laws.
+960,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+961,ORG,"the Philadelphia Water 
+Department","Companies, agencies, institutions, etc."
+962,ORG,the Board of Directors,"Companies, agencies, institutions, etc."
+963,ORG,"the 
+Association of Metropolitan Water Agencies","Companies, agencies, institutions, etc."
+964,ORG,Committee,"Companies, agencies, institutions, etc."
+965,LAW,BIL,Named documents made into laws.
+966,ORG,AMWA,"Companies, agencies, institutions, etc."
+967,LAW,DWWIA,Named documents made into laws.
+968,LAW,"the Drinking Water and Wastewater 
+Infrastructure Act",Named documents made into laws.
+969,ORG,Senate,"Companies, agencies, institutions, etc."
+970,CARDINAL,89,Numerals that do not fall under another type
+971,DATE,Today,Absolute or relative dates or periods
+972,LAW,the Infrastructure Law,Named documents made into laws.
+973,DATE,2019,Absolute or relative dates or periods
+974,GPE,Philadelphia,"Countries, cities, states"
+975,DATE,25 year,Absolute or relative dates or periods
+976,MONEY,multi-billion dollar,"Monetary values, including unit"
+977,CARDINAL,an estimated 400,Numerals that do not fall under another type
+978,LAW,DWWIA,Named documents made into laws.
+979,DATE,last month,Absolute or relative dates or periods
+980,PERSON,Biden,"People, including fictional"
+981,GPE,Philadelphia,"Countries, cities, states"
+982,MONEY,$500 million,"Monetary values, including unit"
+983,PERSON,Carper,"People, including fictional"
+984,PERSON,Hayman,"People, including fictional"
+985,MONEY,Five hundred million,"Monetary values, including unit"
+986,MONEY,$160 million,"Monetary values, including unit"
+987,GPE,Pennsylvania,"Countries, cities, states"
+988,LAW,Bipartisan Infrastructure Law,Named documents made into laws.
+989,QUANTITY,more than 19 miles,"Measurements, as of weight or distance"
+990,DATE,January,Absolute or relative dates or periods
+991,GPE,Philadelphia,"Countries, cities, states"
+992,MONEY,"$19.8 
+","Monetary values, including unit"
+993,ORG,EPA,"Companies, agencies, institutions, etc."
+994,ORG,WIFIA,"Companies, agencies, institutions, etc."
+995,QUANTITY,15 miles,"Measurements, as of weight or distance"
+996,QUANTITY,approximately 160,"Measurements, as of weight or distance"
+997,ORDINAL,first,"""first"", ""second"", etc."
+998,MONEY,$340 million,"Monetary values, including unit"
+999,ORG,WIFIA,"Companies, agencies, institutions, etc."
+1000,GPE,Philadelphia,"Countries, cities, states"
+1001,ORG,EPA,"Companies, agencies, institutions, etc."
+1002,ORG,WIFIA,"Companies, agencies, institutions, etc."
+1003,ORG,Congress,"Companies, agencies, institutions, etc."
+1004,ORG,WIFIA,"Companies, agencies, institutions, etc."
+1005,ORG,DWWIA,"Companies, agencies, institutions, etc."
+1006,DATE,years,Absolute or relative dates or periods
+1007,ORG,WIFIA,"Companies, agencies, institutions, etc."
+1008,ORG,Congress,"Companies, agencies, institutions, etc."
+1009,ORG,DWWIA,"Companies, agencies, institutions, etc."
+1010,ORG,Congress,"Companies, agencies, institutions, etc."
+1011,ORG,EPA,"Companies, agencies, institutions, etc."
+1012,CARDINAL,One,Numerals that do not fall under another type
+1013,ORG,EPA,"Companies, agencies, institutions, etc."
+1014,ORG,AMWA,"Companies, agencies, institutions, etc."
+1015,PERSON,"Ben 
+","People, including fictional"
+1016,MONEY,"$5 
+","Monetary values, including unit"
+1017,DATE,fiscal year 2023,Absolute or relative dates or periods
+1018,MONEY,$5 million,"Monetary values, including unit"
+1019,ORG,EPA,"Companies, agencies, institutions, etc."
+1020,ORG,AMWA,"Companies, agencies, institutions, etc."
+1021,ORG,EPA,"Companies, agencies, institutions, etc."
+1022,ORG,DWWIA,"Companies, agencies, institutions, etc."
+1023,ORDINAL,First,"""first"", ""second"", etc."
+1024,ORG,EPA,"Companies, agencies, institutions, etc."
+1025,ORG,Federal,"Companies, agencies, institutions, etc."
+1026,ORG,AMWA,"Companies, agencies, institutions, etc."
+1027,ORG,EPA,"Companies, agencies, institutions, etc."
+1028,ORG,EPA,"Companies, agencies, institutions, etc."
+1029,ORG,Philadelphia Water,"Companies, agencies, institutions, etc."
+1030,GPE,Philadelphia,"Countries, cities, states"
+1031,ORG,AMWA,"Companies, agencies, institutions, etc."
+1032,DATE,today,Absolute or relative dates or periods
+1033,ORG,AMWA,"Companies, agencies, institutions, etc."
+1034,ORG,"the Committee on 
+","Companies, agencies, institutions, etc."
+1035,ORG,Philadelphia Water,"Companies, agencies, institutions, etc."
+1036,ORDINAL,first,"""first"", ""second"", etc."
+1037,PERSON,Hayman,"People, including fictional"
+1038,PERSON,Carper,"People, including fictional"
+1039,DATE,today,Absolute or relative dates or periods
+1040,PERSON,Thomas Sigmund,"People, including fictional"
+1041,ORG,N-E-W,"Companies, agencies, institutions, etc."
+1042,ORG,NEW Water,"Companies, agencies, institutions, etc."
+1043,PERSON,Sigmund,"People, including fictional"
+1044,LOC,Northeast Wisconsin,"Non-GPE locations, mountain ranges, bodies of water"
+1045,ORG,New,"Companies, agencies, institutions, etc."
+1046,PERSON,Carper,"People, including fictional"
+1047,ORG,Regional Clean Water Utility,"Companies, agencies, institutions, etc."
+1048,GPE,Green Bay,"Countries, cities, states"
+1049,GPE,Wisconsin,"Countries, cities, states"
+1050,CARDINAL,One,Numerals that do not fall under another type
+1051,GPE,Green Bay,"Countries, cities, states"
+1052,EVENT,the Super Bowl,"Named hurricanes, battles, wars, sports events, etc."
+1053,DATE,August,Absolute or relative dates or periods
+1054,PERSON,Capito,"People, including fictional"
+1055,PERSON,Carper,"People, including fictional"
+1056,PERSON,Carper,"People, including fictional"
+1057,PERSON,Sigmund,"People, including fictional"
+1058,PERSON,THOMAS W. SIGMUND,"People, including fictional"
+1059,ORG,"NATIONAL ASSOCIATION 
+   OF CLEAN WATER AGENCIES","Companies, agencies, institutions, etc."
+1060,ORG,NEW WATER,"Companies, agencies, institutions, etc."
+1061,PERSON,Sigmund,"People, including fictional"
+1062,PERSON,Carper,"People, including fictional"
+1063,PERSON,Capito,"People, including fictional"
+1064,ORG,Committee,"Companies, agencies, institutions, etc."
+1065,DATE,today,Absolute or relative dates or periods
+1066,PERSON,Tom Sigmund,"People, including fictional"
+1067,ORG,"the Board 
+of Directors","Companies, agencies, institutions, etc."
+1068,ORG,"the National Association of Clean Water 
+Agencies","Companies, agencies, institutions, etc."
+1069,ORG,NEW Water,"Companies, agencies, institutions, etc."
+1070,ORG,the Green Bay Metropolitan Sewerage District,"Companies, agencies, institutions, etc."
+1071,GPE,"Green 
+","Countries, cities, states"
+1072,GPE,Wisconsin,"Countries, cities, states"
+1073,DATE,2007,Absolute or relative dates or periods
+1074,ORG,NEW Water,"Companies, agencies, institutions, etc."
+1075,CARDINAL,"238,000",Numerals that do not fall under another type
+1076,CARDINAL,15,Numerals that do not fall under another type
+1077,GPE,Wisconsin,"Countries, cities, states"
+1078,CARDINAL,101,Numerals that do not fall under another type
+1079,DATE,annual,Absolute or relative dates or periods
+1080,MONEY,$49 million,"Monetary values, including unit"
+1081,DATE,"20 
+year",Absolute or relative dates or periods
+1082,MONEY,$470 million,"Monetary values, including unit"
+1083,DATE,2021,Absolute or relative dates or periods
+1084,DATE,over 50 years,Absolute or relative dates or periods
+1085,ORG,NACWA,"Companies, agencies, institutions, etc."
+1086,CARDINAL,350,Numerals that do not fall under another type
+1087,ORG,NACWA,"Companies, agencies, institutions, etc."
+1088,ORG,"the 
+Federal Government","Companies, agencies, institutions, etc."
+1089,DATE,years,Absolute or relative dates or periods
+1090,LAW,DWWIA,Named documents made into laws.
+1091,LAW,IIJA,Named documents made into laws.
+1092,LAW,"the Bipartisan 
+Infrastructure Law",Named documents made into laws.
+1093,ORG,NACWA,"Companies, agencies, institutions, etc."
+1094,ORG,EPA,"Companies, agencies, institutions, etc."
+1095,PERSON,Regan,"People, including fictional"
+1096,PERSON,Fox,"People, including fictional"
+1097,ORG,Congress,"Companies, agencies, institutions, etc."
+1098,ORG,NACWA,"Companies, agencies, institutions, etc."
+1099,DATE,last July,Absolute or relative dates or periods
+1100,ORDINAL,first,"""first"", ""second"", etc."
+1101,ORG,"the Clean Water 
+State Revolving Fund","Companies, agencies, institutions, etc."
+1102,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1103,ORG,NACWA,"Companies, agencies, institutions, etc."
+1104,ORG,DWWIA,"Companies, agencies, institutions, etc."
+1105,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1106,DATE,annual,Absolute or relative dates or periods
+1107,DATE,fiscal year 2022,Absolute or relative dates or periods
+1108,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1109,GPE,States,"Countries, cities, states"
+1110,ORG,EPA,"Companies, agencies, institutions, etc."
+1111,DATE,"the fiscal year 
+2023",Absolute or relative dates or periods
+1112,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1113,DATE,fiscal years 2022,Absolute or relative dates or periods
+1114,DATE,2023,Absolute or relative dates or periods
+1115,ORG,Congress,"Companies, agencies, institutions, etc."
+1116,EVENT,BIL,"Named hurricanes, battles, wars, sports events, etc."
+1117,PERCENT,"only 60 
+","Percentage, including ""%"""
+1118,DATE,fiscal year 2023,Absolute or relative dates or periods
+1119,ORG,Congress,"Companies, agencies, institutions, etc."
+1120,ORG,NACWA,"Companies, agencies, institutions, etc."
+1121,PERSON,Biden,"People, including fictional"
+1122,DATE,fiscal year 2024,Absolute or relative dates or periods
+1123,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1124,DATE,last fiscal year,Absolute or relative dates or periods
+1125,ORG,Congress,"Companies, agencies, institutions, etc."
+1126,MONEY,"$3 
+","Monetary values, including unit"
+1127,DATE,next year,Absolute or relative dates or periods
+1128,ORG,NACWA,"Companies, agencies, institutions, etc."
+1129,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1130,DATE,each fiscal year,Absolute or relative dates or periods
+1131,LAW,BIL,Named documents made into laws.
+1132,ORG,CWSRF,"Companies, agencies, institutions, etc."
+1133,CARDINAL,approximately half,Numerals that do not fall under another type
+1134,GPE,States,"Countries, cities, states"
+1135,DATE,fiscal year 2022,Absolute or relative dates or periods
+1136,CARDINAL,One,Numerals that do not fall under another type
+1137,DATE,this fiscal year,Absolute or relative dates or periods
+1138,GPE,States,"Countries, cities, states"
+1139,GPE,Wisconsin,"Countries, cities, states"
+1140,ORG,States,"Companies, agencies, institutions, etc."
+1141,ORG,NACWA,"Companies, agencies, institutions, etc."
+1142,ORG,EPA,"Companies, agencies, institutions, etc."
+1143,LAW,CWSRF,Named documents made into laws.
+1144,ORG,BIL,"Companies, agencies, institutions, etc."
+1145,ORG,EPA,"Companies, agencies, institutions, etc."
+1146,ORG,Congress,"Companies, agencies, institutions, etc."
+1147,DATE,several years,Absolute or relative dates or periods
+1148,ORG,NACWA,"Companies, agencies, institutions, etc."
+1149,ORG,Federal,"Companies, agencies, institutions, etc."
+1150,ORG,NACWA,"Companies, agencies, institutions, etc."
+1151,LAW,DWWIA,Named documents made into laws.
+1152,LAW,IIJA,Named documents made into laws.
+1153,ORG,Federal,"Companies, agencies, institutions, etc."
+1154,ORG,Federal,"Companies, agencies, institutions, etc."
+1155,DATE,the years,Absolute or relative dates or periods
+1156,ORG,the Federal Government,"Companies, agencies, institutions, etc."
+1157,DATE,today,Absolute or relative dates or periods
+1158,DATE,tomorrow,Absolute or relative dates or periods
+1159,LAW,"the Bipartisan Infrastructure 
+Law",Named documents made into laws.
+1160,PERSON,Sigmund,"People, including fictional"
+1161,PERSON,Capito,"People, including fictional"
+1162,PERSON,Sigmund,"People, including fictional"
+1163,PERSON,Kathy Emery,"People, including fictional"
+1164,PERSON,Kathy,"People, including fictional"
+1165,ORG,the Division of Water and Waste Management,"Companies, agencies, institutions, etc."
+1166,ORG,"the West 
+Virginia Department of Environmental Protection","Companies, agencies, institutions, etc."
+1167,GPE,West Virginia,"Countries, cities, states"
+1168,PERSON,KATHERYN D. EMERY,"People, including fictional"
+1169,ORG,"DIVISION OF WATER AND 
+  WASTE MANAGEMENT","Companies, agencies, institutions, etc."
+1170,GPE,WEST VIRGINIA,"Countries, cities, states"
+1171,PERSON,Emery,"People, including fictional"
+1172,TIME,morning,Times smaller than a day
+1173,PERSON,Carper,"People, including fictional"
+1174,PERSON,Capito,"People, including fictional"
+1175,ORG,Committee,"Companies, agencies, institutions, etc."
+1176,LAW,"the Drinking Water and Wastewater 
+Infrastructure Act",Named documents made into laws.
+1177,LAW,"the Infrastructure 
+Investment and Jobs Act",Named documents made into laws.
+1178,PERSON,Katheryn Emery,"People, including fictional"
+1179,ORG,"the 
+West Virginia Department of Environmental Protection's","Companies, agencies, institutions, etc."
+1180,ORG,"Division 
+","Companies, agencies, institutions, etc."
+1181,GPE,West Virginia's,"Countries, cities, states"
+1182,DATE,the past 28 years,Absolute or relative dates or periods
+1183,GPE,West Virginia,"Countries, cities, states"
+1184,DATE,today,Absolute or relative dates or periods
+1185,LAW,"the 
+Infrastructure Investment and Jobs Act",Named documents made into laws.
+1186,CARDINAL,only 50,Numerals that do not fall under another type
+1187,GPE,West Virginia's,"Countries, cities, states"
+1188,CARDINAL,671,Numerals that do not fall under another type
+1189,CARDINAL,"greater than 10,000",Numerals that do not fall under another type
+1190,GPE,"West 
+","Countries, cities, states"
+1191,PERCENT,100 percent,"Percentage, including ""%"""
+1192,CARDINAL,101,Numerals that do not fall under another type
+1193,CARDINAL,175,Numerals that do not fall under another type
+1194,CARDINAL,29,Numerals that do not fall under another type
+1195,CARDINAL,157,Numerals that do not fall under another type
+1196,GPE,West Virginia,"Countries, cities, states"
+1197,ORG,State,"Companies, agencies, institutions, etc."
+1198,ORG,Federal,"Companies, agencies, institutions, etc."
+1199,ORG,State,"Companies, agencies, institutions, etc."
+1200,GPE,States,"Countries, cities, states"
+1201,ORG,SRFs,"Companies, agencies, institutions, etc."
+1202,CARDINAL,one,Numerals that do not fall under another type
+1203,CARDINAL,hundreds,Numerals that do not fall under another type
+1204,DATE,today,Absolute or relative dates or periods
+1205,PERSON,Emery,"People, including fictional"
+1206,PERSON,Capito,"People, including fictional"
+1207,PERSON,Emery,"People, including fictional"
+1208,CARDINAL,all three,Numerals that do not fall under another type
+1209,PERSON,Carper,"People, including fictional"
+1210,PERSON,Emery,"People, including fictional"
+1211,PERSON,Fox,"People, including fictional"
+1212,DATE,"January 
+",Absolute or relative dates or periods
+1213,ORG,EPA,"Companies, agencies, institutions, etc."
+1214,ORG,EPA,"Companies, agencies, institutions, etc."
+1215,ORG,EPA,"Companies, agencies, institutions, etc."
+1216,PERSON,Emery,"People, including fictional"
+1217,DATE,"this 
+past year",Absolute or relative dates or periods
+1218,ORG,EPA,"Companies, agencies, institutions, etc."
+1219,GPE,West Virginia,"Countries, cities, states"
+1220,ORG,EPA,"Companies, agencies, institutions, etc."
+1221,DATE,coming months,Absolute or relative dates or periods
+1222,PERSON,Capito,"People, including fictional"
+1223,PERSON,Emery,"People, including fictional"
+1224,PERSON,Capito,"People, including fictional"
+1225,ORG,Congress,"Companies, agencies, institutions, etc."
+1226,GPE,West Virginia,"Countries, cities, states"
+1227,ORG,EPA,"Companies, agencies, institutions, etc."
+1228,PERSON,Emery,"People, including fictional"
+1229,PERSON,Capito,"People, including fictional"
+1230,PERSON,Emery,"People, including fictional"
+1231,PERSON,Capito,"People, including fictional"
+1232,PERSON,Sigmund,"People, including fictional"
+1233,PERSON,Sigmund,"People, including fictional"
+1234,ORG,the State of Wisconsin Clean Water Fund,"Companies, agencies, institutions, etc."
+1235,DATE,the last year,Absolute or relative dates or periods
+1236,ORG,EPA,"Companies, agencies, institutions, etc."
+1237,ORG,Clean Water Fund,"Companies, agencies, institutions, etc."
+1238,PERSON,Capito,"People, including fictional"
+1239,PERSON,Emery,"People, including fictional"
+1240,PERSON,Lummis,"People, including fictional"
+1241,ORG,State,"Companies, agencies, institutions, etc."
+1242,PERSON,Emery,"People, including fictional"
+1243,PERSON,Capito,"People, including fictional"
+1244,PERSON,Emery,"People, including fictional"
+1245,PERSON,Capito,"People, including fictional"
+1246,PERSON,Emery,"People, including fictional"
+1247,GPE,West Virginia,"Countries, cities, states"
+1248,PERSON,Capito,"People, including fictional"
+1249,PERSON,Emery,"People, including fictional"
+1250,GPE,Iaeger,"Countries, cities, states"
+1251,GPE,McDowell County,"Countries, cities, states"
+1252,CARDINAL,one,Numerals that do not fall under another type
+1253,GPE,Iaeger,"Countries, cities, states"
+1254,MONEY,over $100,"Monetary values, including unit"
+1255,PERSON,Capito,"People, including fictional"
+1256,PERSON,Ricketts,"People, including fictional"
+1257,PERSON,Ricketts,"People, including fictional"
+1258,PERSON,Kelly,"People, including fictional"
+1259,NORP,Republican,Nationalities or religious or political groups
+1260,ORDINAL,first,"""first"", ""second"", etc."
+1261,PERSON,Kelly,"People, including fictional"
+1262,PERSON,Ricketts,"People, including fictional"
+1263,PERSON,Kelly,"People, including fictional"
+1264,TIME,morning,Times smaller than a day
+1265,PERSON,Hayman,"People, including fictional"
+1266,PERSON,Sigmund,"People, including fictional"
+1267,ORG,Congress,"Companies, agencies, institutions, etc."
+1268,PERSON,Risch,"People, including fictional"
+1269,LAW,"the Water Infrastructure 
+Modernization Act",Named documents made into laws.
+1270,ORG,EPA,"Companies, agencies, institutions, etc."
+1271,ORG,Congress,"Companies, agencies, institutions, etc."
+1272,ORG,Federal,"Companies, agencies, institutions, etc."
+1273,LAW,the Water Infrastructure Modernization Act,Named documents made into laws.
+1274,PERSON,Hayman,"People, including fictional"
+1275,PERSON,Kelly,"People, including fictional"
+1276,QUANTITY,acre feet,"Measurements, as of weight or distance"
+1277,PERSON,Hayman,"People, including fictional"
+1278,GPE,Philadelphia,"Countries, cities, states"
+1279,MONEY,"$100 
+","Monetary values, including unit"
+1280,DATE,decades,Absolute or relative dates or periods
+1281,PERSON,Kelly,"People, including fictional"
+1282,PERSON,Sigmund,"People, including fictional"
+1283,PERSON,Sigmund,"People, including fictional"
+1284,PERSON,Kelly,"People, including fictional"
+1285,PERSON,Ricketts,"People, including fictional"
+1286,PERSON,Carper,"People, including fictional"
+1287,PERSON,Ricketts,"People, including fictional"
+1288,ORDINAL,second,"""first"", ""second"", etc."
+1289,PERSON,Ricketts,"People, including fictional"
+1290,ORDINAL,first,"""first"", ""second"", etc."
+1291,PERSON,Fox,"People, including fictional"
+1292,PERSON,Hayman,"People, including fictional"
+1293,PERSON,Hayman,"People, including fictional"
+1294,CARDINAL,One,Numerals that do not fall under another type
+1295,GPE,Philadelphia,"Countries, cities, states"
+1296,DATE,over a year,Absolute or relative dates or periods
+1297,DATE,"the 
+1950s",Absolute or relative dates or periods
+1298,DATE,1960s,Absolute or relative dates or periods
+1299,PERSON,Ricketts,"People, including fictional"
+1300,PERSON,Hayman,"People, including fictional"
+1301,DATE,yesterday,Absolute or relative dates or periods
+1302,CARDINAL,four,Numerals that do not fall under another type
+1303,CARDINAL,trillion,Numerals that do not fall under another type
+1304,GPE,Philadelphia,"Countries, cities, states"
+1305,CARDINAL,trillion,Numerals that do not fall under another type
+1306,PERSON,Ricketts,"People, including fictional"
+1307,PERSON,Sigmund,"People, including fictional"
+1308,PERSON,Sigmund,"People, including fictional"
+1309,MONEY,"$100,000 to $200,000","Monetary values, including unit"
+1310,ORDINAL,first,"""first"", ""second"", etc."
+1311,CARDINAL,One,Numerals that do not fall under another type
+1312,ORG,EPA,"Companies, agencies, institutions, etc."
+1313,DATE,"about 
+two decades",Absolute or relative dates or periods
+1314,MONEY,in excess of a million dollars,"Monetary values, including unit"
+1315,ORG,EPA,"Companies, agencies, institutions, etc."
+1316,ORG,Congress,"Companies, agencies, institutions, etc."
+1317,PERSON,Ricketts,"People, including fictional"
+1318,PERSON,Sigmund,"People, including fictional"
+1319,PERSON,Emery,"People, including fictional"
+1320,PERSON,Emery,"People, including fictional"
+1321,PERSON,Sigmund,"People, including fictional"
+1322,GPE,West Virginia,"Countries, cities, states"
+1323,DATE,"the last 
+couple years",Absolute or relative dates or periods
+1324,CARDINAL,one,Numerals that do not fall under another type
+1325,PERSON,Ricketts,"People, including fictional"
+1326,PERSON,Carper,"People, including fictional"
+1327,PERSON,Ricketts,"People, including fictional"
+1328,CARDINAL,two,Numerals that do not fall under another type
+1329,CARDINAL,three,Numerals that do not fall under another type
+1330,CARDINAL,three,Numerals that do not fall under another type
+1331,PERSON,Hayman,"People, including fictional"
+1332,LAW,"The Bipartisan 
+Infrastructure Law",Named documents made into laws.
+1333,NORP,Democrats,Nationalities or religious or political groups
+1334,NORP,Republicans,Nationalities or religious or political groups
+1335,LAW,The Bipartisan Infrastructure Law,Named documents made into laws.
+1336,MONEY,"more 
+than","Monetary values, including unit"
+1337,DATE,5 years,Absolute or relative dates or periods
+1338,PERCENT,some 49 percent,"Percentage, including ""%"""
+1339,DATE,annual,Absolute or relative dates or periods
+1340,ORG,State,"Companies, agencies, institutions, etc."
+1341,ORG,State,"Companies, agencies, institutions, etc."
+1342,GPE,Philadelphia,"Countries, cities, states"
+1343,GPE,Philadelphia,"Countries, cities, states"
+1344,LAW,"the Bipartisan Infrastructure 
+Law",Named documents made into laws.
+1345,PERSON,Hayman,"People, including fictional"
+1346,ORG,the PENNVEST State Revolving Fund,"Companies, agencies, institutions, etc."
+1347,CARDINAL,one,Numerals that do not fall under another type
+1348,GPE,Philadelphia,"Countries, cities, states"
+1349,ORDINAL,second,"""first"", ""second"", etc."
+1350,CARDINAL,One,Numerals that do not fall under another type
+1351,CARDINAL,400,Numerals that do not fall under another type
+1352,PERSON,Carper,"People, including fictional"
+1353,ORDINAL,second,"""first"", ""second"", etc."
+1354,PERSON,Sigmund,"People, including fictional"
+1355,ORG,the National Association of Clean Water Agencies,"Companies, agencies, institutions, etc."
+1356,ORG,"the 
+Association of Metropolitan Water Agencies","Companies, agencies, institutions, etc."
+1357,MONEY,"an 
+additional $448 billion to $944 billion","Monetary values, including unit"
+1358,DATE,between now and 2050,Absolute or relative dates or periods
+1359,LAW,The Drinking Water and Wastewater Infrastructure Act,Named documents made into laws.
+1360,DATE,last year,Absolute or relative dates or periods
+1361,ORG,Congress,"Companies, agencies, institutions, etc."
+1362,LAW,"the Drinking Water and Wastewater Infrastructure 
+Act",Named documents made into laws.
+1363,PERSON,Sigmund,"People, including fictional"
+1364,ORG,Congress,"Companies, agencies, institutions, etc."
+1365,ORG,NACWA,"Companies, agencies, institutions, etc."
+1366,CARDINAL,three,Numerals that do not fall under another type
+1367,DATE,the last 5 years,Absolute or relative dates or periods
+1368,GPE,Wisconsin,"Countries, cities, states"
+1369,DATE,the year,Absolute or relative dates or periods
+1370,PERSON,Carper,"People, including fictional"
+1371,CARDINAL,one,Numerals that do not fall under another type
+1372,PERSON,Emery,"People, including fictional"
+1373,PERSON,Markey,"People, including fictional"
+1374,PERSON,Markey,"People, including fictional"
+1375,TIME,good afternoon,Times smaller than a day
+1376,PERSON,Markey,"People, including fictional"
+1377,PERSON,Carper,"People, including fictional"
+1378,PERSON,Markey,"People, including fictional"
+1379,PERSON,Carper,"People, including fictional"
+1380,PERSON,Markey,"People, including fictional"
+1381,DATE,2021,Absolute or relative dates or periods
+1382,GPE,Florida,"Countries, cities, states"
+1383,PERCENT,"over 11,000 percent","Percentage, including ""%"""
+1384,ORG,"the Water Information Sharing and 
+Analysis Center","Companies, agencies, institutions, etc."
+1385,ORG,Water ISAC,"Companies, agencies, institutions, etc."
+1386,PERSON,Hayman,"People, including fictional"
+1387,ORG,Committee,"Companies, agencies, institutions, etc."
+1388,ORG,Water ISAC,"Companies, agencies, institutions, etc."
+1389,PERSON,Hayman,"People, including fictional"
+1390,ORG,the Water ISAC,"Companies, agencies, institutions, etc."
+1391,GPE,East Palestine,"Countries, cities, states"
+1392,GPE,Ohio,"Countries, cities, states"
+1393,ORG,Water ISAC,"Companies, agencies, institutions, etc."
+1394,PERSON,Markey,"People, including fictional"
+1395,DATE,Last week,Absolute or relative dates or periods
+1396,LAW,"the Water System Threat 
+Preparedness and Resilience Act",Named documents made into laws.
+1397,ORG,Water ISAC,"Companies, agencies, institutions, etc."
+1398,PERSON,Hayman,"People, including fictional"
+1399,ORG,Congress,"Companies, agencies, institutions, etc."
+1400,PERSON,Hayman,"People, including fictional"
+1401,PERSON,Markey,"People, including fictional"
+1402,PERSON,Hayman,"People, including fictional"
+1403,PERSON,Markey,"People, including fictional"
+1404,LOC,"East 
+","Non-GPE locations, mountain ranges, bodies of water"
+1405,PERSON,Hayman,"People, including fictional"
+1406,PERSON,Markey,"People, including fictional"
+1407,PERSON,Samuel Taylor Coleridge,"People, including fictional"
+1408,PERSON,Coleridge,"People, including fictional"
+1409,NORP,Americans,Nationalities or religious or political groups
+1410,PERCENT,40 percent,"Percentage, including ""%"""
+1411,DATE,2019,Absolute or relative dates or periods
+1412,LAW,the CLEAR Act,Named documents made into laws.
+1413,LAW,the Bipartisan Infrastructure Law,Named documents made into laws.
+1414,ORG,Administration,"Companies, agencies, institutions, etc."
+1415,MONEY,"More than $10 
+","Monetary values, including unit"
+1416,ORG,EPA,"Companies, agencies, institutions, etc."
+1417,GPE,"Fall 
+","Countries, cities, states"
+1418,GPE,Massachusetts,"Countries, cities, states"
+1419,DATE,decades,Absolute or relative dates or periods
+1420,PERSON,Hayman,"People, including fictional"
+1421,PERSON,Hayman,"People, including fictional"
+1422,DATE,the last 15 years,Absolute or relative dates or periods
+1423,CARDINAL,about 700,Numerals that do not fall under another type
+1424,DATE,the last 5 years,Absolute or relative dates or periods
+1425,CARDINAL,"about 4,000",Numerals that do not fall under another type
+1426,CARDINAL,one,Numerals that do not fall under another type
+1427,PERSON,Markey,"People, including fictional"
+1428,MONEY,only $30 million,"Monetary values, including unit"
+1429,DATE,"last 
+",Absolute or relative dates or periods
+1430,MONEY,"$60 
+","Monetary values, including unit"
+1431,LAW,the Bipartisan Law,Named documents made into laws.
+1432,PERSON,Hayman,"People, including fictional"
+1433,PERSON,Carper,"People, including fictional"
+1434,PERSON,Markey,"People, including fictional"
+1435,DATE,today,Absolute or relative dates or periods
+1436,GPE,Philadelphia,"Countries, cities, states"
+1437,GPE,West Virginia,"Countries, cities, states"
+1438,CARDINAL,one,Numerals that do not fall under another type
+1439,PERSON,"Aaron 
+","People, including fictional"
+1440,ORG,the Green Bay Packers,"Companies, agencies, institutions, etc."
+1441,ORG,Committee,"Companies, agencies, institutions, etc."
+1442,ORG,the Federal Government,"Companies, agencies, institutions, etc."
+1443,ORG,State,"Companies, agencies, institutions, etc."
+1444,LAW,"Bipartisan Water 
+and Wastewater",Named documents made into laws.
+1445,ORG,Federal,"Companies, agencies, institutions, etc."
+1446,TIME,"4 p.m. on Wednesday,",Times smaller than a day
+1447,DATE,"about 2 weeks 
+from today",Absolute or relative dates or periods
+1448,DATE,"Wednesday, April 12th",Absolute or relative dates or periods
+1449,ORDINAL,first,"""first"", ""second"", etc."
+1450,DATE,today,Absolute or relative dates or periods
+1451,PERSON,Carper,"People, including fictional"
+1452,DATE,"a 
+number of years ago",Absolute or relative dates or periods
+1453,GPE,West Virginia,"Countries, cities, states"
+1454,GPE,Beckley,"Countries, cities, states"
+1455,GPE,Raleigh County,"Countries, cities, states"
+1456,GPE,Beaver,"Countries, cities, states"
+1457,GPE,Beckley,"Countries, cities, states"
+1458,TIME,every Sunday morning,Times smaller than a day
+1459,DATE,Sunday,Absolute or relative dates or periods
+1460,DATE,Wednesday,Absolute or relative dates or periods
+1461,DATE,Thursday,Absolute or relative dates or periods
+1462,DATE,Thursday,Absolute or relative dates or periods
+1463,GPE,Beaver,"Countries, cities, states"
+1464,PERSON,Billy Graham,"People, including fictional"
+1465,CARDINAL,one,Numerals that do not fall under another type
+1466,PERSON,Sheila,"People, including fictional"
+1467,LAW,the Golden Rule,Named documents made into laws.
+1468,DATE,Matthew 25,Absolute or relative dates or periods
+1469,DATE,today,Absolute or relative dates or periods
+1470,CARDINAL,at least one,Numerals that do not fall under another type
+1471,GPE,Philadelphia,"Countries, cities, states"
+1472,GPE,West Virginia,"Countries, cities, states"
+1473,ORG,Packers,"Companies, agencies, institutions, etc."
+1474,ORG,Eagles,"Companies, agencies, institutions, etc."
+1475,DATE,the years,Absolute or relative dates or periods
+1476,GPE,"Green 
+","Countries, cities, states"
+1477,TIME,12:27 p.m.,Times smaller than a day
